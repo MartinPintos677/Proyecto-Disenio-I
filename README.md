@@ -4,7 +4,7 @@ Proyecto de la primer materia del segundo año de la carrera de Analista de Sist
 
 Se desea generar el sistema para un sitio de intercambio de mensajes. Todo el acceso será mediante un único sitio web. 
 
-DESCRIPCIÓN DE LA REALIDAD
+DESCRIPCIÓN DE LA REALIDAD:
 Existen usuarios que mandan mensajes. Existen 2 tipos de mensajes: comunes y privados.
 De los mensajes en general se sabe: 
 1. Código Interno (único en el sistema – autogenerado )
@@ -22,7 +22,7 @@ generarse ABM’s desde el sitio. Se sabe su código (3 letras) y su nombre. Deb
 necesaria para poder consultar/usar este concepto tanto en la base de datos como en el sistema. 
 Ejemplos: URG (urgente), IVT (invitación), EVT (eventos), etc
 
-FUNCIONALIDADES DEL SITIO WEB 
+FUNCIONALIDADES DEL SITIO WEB:
 
 Página Web: Pagina Inicial del sitio (Default).
 Actor Participante: publico.
