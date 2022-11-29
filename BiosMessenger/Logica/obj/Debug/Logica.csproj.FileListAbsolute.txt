@@ -1,0 +1,22 @@
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Debug\Logica.dll
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Debug\Logica.pdb
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Debug\Persistencia.dll
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Debug\Persistencia.pdb
+C:\Users\acer\source\repos\BiosMessenger\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\BiosMessenger\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BiosMessenger\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\acer\source\repos\BiosMessenger\Logica\obj\Debug\Logica.dll
+C:\Users\acer\source\repos\BiosMessenger\Logica\obj\Debug\Logica.pdb
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\bin\Debug\Logica.dll
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\bin\Debug\Logica.pdb
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\bin\Debug\Persistencia.dll
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\bin\Debug\Persistencia.pdb
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\obj\Debug\Logica.dll
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Logica\obj\Debug\Logica.pdb

@@ -1,0 +1,18 @@
+C:\Users\acer\source\repos\BiosMessenger\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\acer\source\repos\BiosMessenger\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\acer\source\repos\BiosMessenger\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\acer\source\repos\BiosMessenger\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\acer\source\repos\BiosMessenger\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\BiosMessenger\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BiosMessenger\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\acer\source\repos\BiosMessenger\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\acer\source\repos\BiosMessenger\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\acer\Desktop\PARA ENTREGAR DISEÑO I\BiosMessenger\Persistencia\obj\Debug\Persistencia.pdb

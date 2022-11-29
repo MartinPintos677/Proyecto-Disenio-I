@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Release\Logica.dll
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Release\Logica.pdb
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Release\EntidadesCompartidas.dll
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Release\Persistencia.dll
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Release\EntidadesCompartidas.pdb
+C:\Users\acer\source\repos\BiosMessenger\Logica\bin\Release\Persistencia.pdb
+C:\Users\acer\source\repos\BiosMessenger\Logica\obj\Release\Logica.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\BiosMessenger\Logica\obj\Release\Logica.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BiosMessenger\Logica\obj\Release\Logica.csproj.CopyComplete
+C:\Users\acer\source\repos\BiosMessenger\Logica\obj\Release\Logica.dll
+C:\Users\acer\source\repos\BiosMessenger\Logica\obj\Release\Logica.pdb

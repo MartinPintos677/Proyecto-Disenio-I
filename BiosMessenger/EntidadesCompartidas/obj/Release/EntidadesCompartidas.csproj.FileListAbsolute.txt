@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\BiosMessenger\EntidadesCompartidas\bin\Release\EntidadesCompartidas.dll
+C:\Users\acer\source\repos\BiosMessenger\EntidadesCompartidas\bin\Release\EntidadesCompartidas.pdb
+C:\Users\acer\source\repos\BiosMessenger\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\BiosMessenger\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BiosMessenger\EntidadesCompartidas\obj\Release\EntidadesCompartidas.dll
+C:\Users\acer\source\repos\BiosMessenger\EntidadesCompartidas\obj\Release\EntidadesCompartidas.pdb

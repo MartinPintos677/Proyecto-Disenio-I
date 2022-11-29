@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="Content/bootstrap.css" rel="stylesheet"/> 
+    <script src="Scripts/bootstrap.min.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">        
+        .auto-style1 {
+            background-color: black;
+        }
+        .auto-style3 {
+            width: 226px;
+        }
+        .auto-style5 {
+            width: 939px;
+        }
+        .auto-style6 {
+            width: 939px;
+            background-color: #000000;
+            text-align: center;
+        }
+        .auto-style7 {
+            width: 226px;
+            background-color: #000000;
+        }
+        .auto-style8 {
+            background-color: black;
+            width: 79px;
+            height: 78px;
+        }
+        .auto-style9 {
+            width: 30px;
+            height: 30px;
+        }
+        .auto-style10 {
+            width: 226px;
+            height: 24px;
+        }
+        .auto-style11 {
+            width: 939px;
+            height: 24px;
+        }
+        .auto-style12 {
+            height: 24px;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="width:100%;">
+            <tr>
+                <td class="auto-style7">
+                        <img alt="logo" class="auto-style8" longdesc="logo" src="img/logo%20rojo.jpg" /><img alt="messenger" class="auto-style8" longdesc="messenger" src="img/messenger%20logo.png" /></td>
+                <td class="auto-style6">
+                    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" ForeColor="White" StaticSubMenuIndent="16px">
+                        <Items>
+                            <asp:MenuItem Text="Buzón |" Value="Buzón" NavigateUrl="~/BandejadeEntrada.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Enviados |" Value="Enviados" NavigateUrl="~/BandejadeSalida.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Mensaje Común |" Value="Mensaje Común" NavigateUrl="~/AltaMensajeComun.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Mensaje Privado |" Value="Mensaje Privado" NavigateUrl="~/AltaMensajePrivado.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Editar Usuario" Value="Editar Usuario" NavigateUrl="~/BMUsuarioLogueado.aspx"></asp:MenuItem>
+                        </Items>
+                        <StaticHoverStyle ForeColor="#E74C3C" />
+                    </asp:Menu>
+                </td>
+                <td class="auto-style1">
+                    <img alt="log" class="auto-style9" longdesc="log" src="img/icons8-online-support-30%20(1).png" /><asp:Label ID="lblUsuario" runat="server" ForeColor="#2ECC71"></asp:Label>
+                    <br />
+                    <img alt="out" class="auto-style9" longdesc="out" src="img/icons8-logout-rounded-left-30.png" /><asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Default.aspx" ForeColor="#E74C3C">Cerrar sesión</asp:HyperLink>
+                </td>
+            </tr>
+            </table>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
