@@ -1,4 +1,4 @@
-# Proyecto-Diseño-I
+# Proyecto Diseño I
 
 Proyecto de la primer materia del segundo año de la carrera de Analista de Sistemas. 
 
