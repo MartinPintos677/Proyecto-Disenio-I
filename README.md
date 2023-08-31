@@ -109,33 +109,46 @@ Objects (obligatorio).
 
 REQUERIMIENTOS DE IMPLEMENTACIÓN
  Implementación completa del sistema con tecnologías .NET en lenguaje C#. 
+
  La información deberá almacenarse obligatoriamente en una base de datos SQL Server.
+
  El script de la base de datos debe generarse manualmente, sin la ayuda de un asistente.
 Deberá contener el Esquema de creación de la base de datos, Stored Procedures
 necesarios para realizar todas las tareas solicitadas, e Inserción de datos de prueba. Las
 restricciones sobre datos deberán realizarse en la propia estructura de la tabla (uso
 obligatorio de los modificadores unique, check, default). Tomar en cuenta que usuario se
 necesita para la ejecución del Sitio publicado.
+
  Las eliminaciones a nivel de la base de datos deberán ser físicas o lógicas en función de las
 posibilidades. Es decir, si un elemento a eliminar no tiene relaciones dentro de los registros
 de la base de datos, se elimina físicamente; de lo contrario se hará una eliminación lógica.
 Obligatorio de implementar
+
  Para el desarrollo del sistema utilizar la arquitectura en 3 capas vista en el curso, mediante la
 utilización de bibliotecas de clases.
+
  Obligatorio el uso de clases definidas por el usuario para la comunicación de datos entre
 componentes (tanto para invocación como respuesta).
+
  Los componentes de Lógica y Persistencia deberán ser generados en base a los patrones de
 Fábrica y Singleton vistos en clase. No deberá implementarse ningún otro patrón.
+
  Siempre se deberá de trabajar en forma conectada (ADO.NET) para el manejo de la
 información de la base de datos.
  Los componentes deberán lanzar excepciones en caso de error. No se contempla otra
 forma de comunicación de errores entre componentes.
+
  Deberá publicarse el sitio, para su prueba final.
 Requerimientos de Entrega
+
  Solución completa del Software
+
  Script de la base de datos
+
  Modelo Conceptual
+
  MER
+
  Diagrama de Clases completo de la Arquitectura en capas (incluye a todos los componentes,
 clases, interfaces y relaciones entre ellos)
 Nota: todos los diagramas deberán ser generados con una herramienta para lenguaje UML. Estos deberán ser
